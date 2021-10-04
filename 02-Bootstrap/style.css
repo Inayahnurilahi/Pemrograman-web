@@ -1,0 +1,29 @@
+.lead{
+    margin-top: 50px;
+    font-family:'Architects Daughter', cursive;; 
+    color:black;
+}
+.judul{
+    margin-top: 100px;
+    font-family: 'Titan One', cursive;
+   
+    
+}
+section{
+    padding: 2rem;
+    background-color: rgb(226, 221, 214);
+}
+.jumbotron{
+    background-image: url(img/sincerely-media-R308gX3g4h8-unsplash.jpg);
+    background-size: cover;
+    height: 550px;
+    padding: 2rem;
+}
+.card-text{
+    font-family: 'Risque', cursive;
+    color: rgb(179, 65, 65);
+    text-align: center;
+}
+.judul2{
+    font-family:'Architects Daughter', cursive;
+}
